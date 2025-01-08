@@ -1,6 +1,6 @@
 # PintOS
 
-[CSE4050 Programming Language Prj4 ]
+[ CSE4070 Operating System Project ]
 
 - Prj 0 ~ 3 : 100/100
 
