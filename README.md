@@ -12,6 +12,6 @@
 
 - Secondly, because I did not implement mmap, I did not receive the page-merge-mm points, resulting in a score of 94 for prj4.
 
-- Lastly, for unknown reasons, two of the page-merge-* cases (except page-merge-mm) fail to pass either on certain servers or randomly during execution.
+- Lastly, for unknown reasons, some cases fail to pass either on certain servers or randomly during execution.
 
 Sogang Univ. 2024 Fall Semester
